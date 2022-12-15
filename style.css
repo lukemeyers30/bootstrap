@@ -1,0 +1,17 @@
+.navbar-brand{
+    text-transform: uppercase;
+    font-weight:700;
+}
+
+
+.presentation iframe {
+    width: 100%;
+    max-width: 856px;
+    height: 518px;
+  }
+
+  h1{
+    font-size:50px;
+  }
+
+ 
