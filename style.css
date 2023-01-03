@@ -12,10 +12,11 @@
 
   h1{
     font-size:50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman'
   }
 
  .custom-bg{
-  background-color:rgb(200, 228, 232);
+  background-color:rgb(245, 247, 248);
  }
 
  
